@@ -1,3 +1,5 @@
-JSON_CALLBACK ({
-  "success": true
-})
+JSON_CALLBACK(
+  {
+    "success": true
+  }
+)

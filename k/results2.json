@@ -1,4 +1,5 @@
-JSON_CALLBACK ({
+JSON_CALLBACK(
+{
   "totalItems": 18,
   "currentPage": 2,
   "startIndex": 10,
@@ -35,4 +36,5 @@ JSON_CALLBACK ({
       "score": "80",
       "location": "Daly City, CA"
     }]
-})
+}
+)
