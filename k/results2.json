@@ -1,0 +1,38 @@
+{
+  "totalItems": 18,
+  "currentPage": 2,
+  "startIndex": 10,
+  "results": [{
+      "name": "Name 11",
+      "score": "85",
+      "location": "Berkeley, CA"
+    }, {
+      "name": "Name 12",
+      "score": "80",
+      "location": "Daly City, CA"
+    }, {
+      "name": "Name 13",
+      "score": "87",
+      "location": "San Francisco, CA"
+    }, {
+      "name": "Name 14",
+      "score": "85",
+      "location": "Berkeley, CA"
+    }, {
+      "name": "Name 15",
+      "score": "80",
+      "location": "Daly City, CA"
+    }, {
+      "name": "Name 16",
+      "score": "87",
+      "location": "San Francisco, CA"
+    }, {
+      "name": "Name 17",
+      "score": "85",
+      "location": "Berkeley, CA"
+    }, {
+      "name": "Name 18",
+      "score": "80",
+      "location": "Daly City, CA"
+    }]
+}
