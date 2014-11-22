@@ -1,4 +1,4 @@
-{
+JSON_CALLBACK ({
   "totalItems": 18,
   "currentPage": 1,
   "startIndex": 0,
@@ -43,4 +43,4 @@
       "score": "87",
       "location": "San Francisco, CA"
     }]
-}
+})
